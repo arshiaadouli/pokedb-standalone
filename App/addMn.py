@@ -1,0 +1,2 @@
+class AddMn:
+    pass
